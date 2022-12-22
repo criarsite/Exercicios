@@ -1,0 +1,15 @@
+C:\Workspace\Treinamento\Cursos\BoxStart\bin\Debug\net7.0\BoxStart.exe
+C:\Workspace\Treinamento\Cursos\BoxStart\bin\Debug\net7.0\BoxStart.deps.json
+C:\Workspace\Treinamento\Cursos\BoxStart\bin\Debug\net7.0\BoxStart.runtimeconfig.json
+C:\Workspace\Treinamento\Cursos\BoxStart\bin\Debug\net7.0\BoxStart.dll
+C:\Workspace\Treinamento\Cursos\BoxStart\bin\Debug\net7.0\BoxStart.pdb
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.csproj.AssemblyReference.cache
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.AssemblyInfoInputs.cache
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.AssemblyInfo.cs
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.csproj.CoreCompileInputs.cache
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.dll
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\refint\BoxStart.dll
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.pdb
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\BoxStart.genruntimeconfig.cache
+C:\Workspace\Treinamento\Cursos\BoxStart\obj\Debug\net7.0\ref\BoxStart.dll
